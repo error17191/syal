@@ -3655,6 +3655,7 @@ blockquote.styled {
 	vertical-align: middle;
 	padding: 0 20%;
 	padding-top: 100px;
+	color: #333;
 }
 
 #search .nav-tabs {
@@ -3672,11 +3673,6 @@ blockquote.styled {
 	color: #fff !important;
 }
 
-#search .tab-content {
-	border-radius: 0;
-	border: 0;
-	color: #333;
-}
 
 #search .nav-tabs > li > a {
 	background: rgba(0, 0, 0, 0.40);
